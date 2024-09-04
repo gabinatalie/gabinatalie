@@ -16,7 +16,17 @@ De nutricionista, a cozinheira profissional e buscando novos desafios encontrei 
 <div>
 <p align='center'>
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,scss,vscode,windows" alt='Tecnologias'>  
+<img src="https://skillicons.dev/icons?i=html,css,scss,vscode,windows,figma,github" alt='Tecnologias'>  
+</div>
+    
+---
+### 💻 | Tecnologias que estou aprendendo
+<br>
+
+<div>
+<p align='center'>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,bootstrap,nodejs,npm,react,redux" alt='Tecnologias'>  
 </div>
     
 ---
