@@ -35,7 +35,7 @@ De nutricionista, a cozinheira profissional e buscando novos desafios encontrei 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=gabinatalie&show_icons=true&theme=tokyonight' alt='git status'>
   <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabinatalie&size_weight=1&count_weight=0&layout=donut&theme=tokyonight' alt='git language'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabinatalie&size_weight=1&count_weight=0&layout=compact&theme=tokyonight' alt='git language'>
 </div>
 
 ---
