@@ -1,5 +1,5 @@
 <div align='center'>
-<h3>Olá, me chamo Gabrielle Natalie Alves e sou uma Desenvolvedora Front-End que se aventura pela programação!</h3>
+<h3>Olá, me chamo Gabrielle Natalie Alves e sou uma Desenvolvedora Front End se aventurando pela programação! 🚀</h3>
 </div>
 
 ---
@@ -16,7 +16,7 @@ De nutricionista, a cozinheira profissional e buscando novos desafios encontrei 
 <div>
 <p align='center'>
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,scss,vscode,windows,figma,github" alt='Tecnologias'>  
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,react,vscode,windows,figma,github,npm,nodejs " alt='Tecnologias'>  
 </div>
     
 ---
@@ -26,7 +26,7 @@ De nutricionista, a cozinheira profissional e buscando novos desafios encontrei 
 <div>
 <p align='center'>
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,bootstrap,nodejs,npm,react,redux" alt='Tecnologias'>  
+<img src="https://skillicons.dev/icons?i=ts,bootstrap,vue,redux,styledcomponents,vite" alt='Tecnologias'>  
 </div>
     
 ---
